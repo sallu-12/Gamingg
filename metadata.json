@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity 3D Driving Simulator",
+  "description": "AAA-Quality 3D Car Driving Game with realistic vehicle physics, urban open-world city, dynamic audio, dual cameras, and complete Unity C# architecture export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
